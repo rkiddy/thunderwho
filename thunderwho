@@ -1,0 +1,6 @@
+#!/bin/bash
+
+cd $HOME/thundercli/
+
+./.venv/bin/python senders.py $*
+
